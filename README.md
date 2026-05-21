@@ -53,18 +53,7 @@ I care about:
 - Automated air quality tracking and environmental insight generation for faster and more accessible decision-making
 - Implemented real-time monitoring, data visualization, and AI-assisted environmental analysis features for practical real-world usage
 
----
-
-### [PROJECT NAME]
-> One-line explanation.
-
-#### Highlights
-- AI orchestration workflow
-- Multi-tool integration
-- Real-time processing
-- Production-focused architecture
-
----
+Drive link → https://drive.google.com/drive/folders/1jojs2QiANb97-GLDyTmJ0yln-CSwhssS
 
 ## Tech Stack
 
